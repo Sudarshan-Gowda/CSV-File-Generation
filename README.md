@@ -39,9 +39,14 @@ File -> Import -> Maven -> Existing Maven project
 ## Steps to test the application:
 
 1) Once the application is installed properly, Run the application by adding server or build and deploy to webapps directory in server
-2) Once the application deployed successfully means hit the URL from your browser. (http://localhost:8080/CSV-File-Generation).For Reference [Click to View](https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture1.png)
-3) Enter the details or Content to generate CSV File as shown in Image [Click to View](https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture2.png)
-4) Once you hit the Submit button File will be generated with entered details and button will be enabled to download the generated file. For reference [click here](https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture3.png)
+2) Once the application deployed successfully means hit the URL from your browser. (http://localhost:8080/CSV-File-Generation).For Reference 
+<img src="https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture1.png"/>
+
+3) Enter the details or Content to generate CSV File as shown in Image 
+<img src="https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture2.png"/>
+
+4) Once you hit the Submit button File will be generated with entered details and button will be enabled to download the generated file. For reference 
+<img src="https://github.com/Sudarshan-Gowda/CSV-File-Generation/blob/master/docs/picture3.png"/>
    
 # Contributing
 
